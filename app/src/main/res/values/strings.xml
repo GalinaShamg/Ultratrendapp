@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Аудиокниги для детей</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_feedback">Отзывы</string>
+    <string name="menu_fairytales">Аудиосказки </string>
+    <string name="menu_sovietsongs">Детские песни</string>
+    <string name="menu_usachev">Лучшие детские песни (Андрей Усачев)</string>
+    <string name="menu_marshak">Стихи (Маршак С.Я.)</string>
+    <string name="menu_barto">Стихи (Барто А.)</string>
+    <string name="menu_baron">Приключения Барона Мюнхаузена</string>
+    <string name="menu_kr">Басни Крылова</string>
+    <string name="menu_bajov">Рассказы Бажова П.</string>
+    <string name="menu_hobbit">Хоббит (Толкин Дж.)</string>
+    <string name="menu_gulliver">Гулливер в стране лилипутов</string>
+    <string name="menu_finn">Гекльберри Финн</string>
+    <string name="menu_grant">Дети капитана Гранта </string>
+    <string name="menu_denis">Денискины рассказы (Драгунский В.)</string>
+    <string name="check_connection_text">Интернет-соединение отсутствует</string>
+
+    <string name="website_domain">www.ultratrend.ru</string>
+    <string name="website_domainmenu">https://ultratrend.ru/category/audiobooks/</string>
+    <string name="website_feedback">https://ultratrend.ru/kontakty/</string>
+    <string name="website_fairytales">https://ultratrend.ru/audio-skazki-dlya-detej/</string>
+    <string name="website_sovietsongs">https://ultratrend.ru/sbornik-detskih-pesen-po-multfilmam/</string>
+    <string name="website_usachev">https://ultratrend.ru/luchshie-detskie-pesenki-andrej-usachjov/</string>
+    <string name="website_marshak">https://ultratrend.ru/stihi-marshak-s-ya/</string>
+    <string name="website_barto">https://ultratrend.ru/stihi-agniya-barto/</string>
+    <string name="website_baron">https://ultratrend.ru/prikljucheniya-barona-mjunhauzena/</string>
+    <string name="website_krilov">https://ultratrend.ru/basni-krylova-i/</string>
+    <string name="website_bajov">https://ultratrend.ru/rasskazy-bazhova-p/</string>
+    <string name="website_hobbit">https://ultratrend.ru/hobbit-tolkin-dzh-audiokniga/</string>
+    <string name="website_gulliver">https://ultratrend.ru/gulliver-v-strane-liliputov/</string>
+    <string name="website_finn">https://ultratrend.ru/geklberri-finn-audiokniga/</string>
+    <string name="website_grant">https://ultratrend.ru/deti-kapitana-granta-zh-vern-audiokniga/</string>
+    <string name="website_denis">https://ultratrend.ru/deniskiny-rasskazy-dragunskij-v/</string>
+
+</resources>

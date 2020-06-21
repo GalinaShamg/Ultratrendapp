@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/menu_fairytales"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_fairytales" />
+        <item
+            android:id="@+id/menu_sovietsongs"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_sovietsongs" />
+        <item
+            android:id="@+id/menu_usachev"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_usachev" />
+        <item
+            android:id="@+id/menu_marshak"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_marshak" />
+        <item
+            android:id="@+id/menu_barto"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_barto" />
+        <item
+            android:id="@+id/menu_baron"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_baron" />
+        <item
+            android:id="@+id/menu_krilov"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_kr" />
+        <item
+            android:id="@+id/menu_bajov"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_bajov" />
+        <item
+            android:id="@+id/menu_hobbit"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_hobbit" />
+        <item
+            android:id="@+id/menu_gulliver"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_gulliver" />
+        <item
+            android:id="@+id/menu_finn"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_finn" />
+        <item
+            android:id="@+id/menu_grant"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_grant" />
+        <item
+            android:id="@+id/menu_denis"
+            android:icon="@drawable/baseline_music"
+            android:title="@string/menu_denis" />
+    </group>
+</menu>
